@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>URL Shortener</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+    <div class="container">
+        <h2>🔗 URL Shortener</h2>
+
+        <input type="text" id="longUrl" placeholder="Enter long URL">
+
+        <button id="shortenBtn" onclick="shortenUrl()">Shorten URL</button>
+
+        <div class="spinner" id="spinner"></div>
+
+        <div class="result" id="result"></div>
+
+        <div class="history">
+        <h3>📜 URL History</h3>
+        <button onclick="clearHistory()" style="margin-bottom:10px;">Clear History</button>
+        <ul id="historyList"></ul>
+        </div>
+
+    </div>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>
