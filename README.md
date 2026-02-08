@@ -33,5 +33,5 @@ The project demonstrates full-stack integration, error handling, and frontend–
 
 ---
 
-## 📂 Project Structure
+
 
