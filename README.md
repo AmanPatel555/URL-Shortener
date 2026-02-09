@@ -31,6 +31,15 @@ The project demonstrates full-stack integration, error handling, and frontend–
 - CSS
 - JavaScript
 
+📂 Project Structure
+url-shortener/
+│
+├── main.py            # FastAPI backend
+├── index.html         # Frontend UI
+├── static/            # CSS or JS files (if any)
+├── requirements.txt   # Project dependencies
+└── README.md          # Documentation
+
 ---
 
 
