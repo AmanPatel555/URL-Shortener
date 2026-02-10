@@ -40,7 +40,12 @@ url-shortener/
 ├── requirements.txt   # Project dependencies
 └── README.md          # Documentation
 
----
+## Steps to run the URL Shortener
+pip install -r requirements.txt
+uvicorn main:app --reload
+http://127.0.0.1:8000/
+
+
 
 
 
