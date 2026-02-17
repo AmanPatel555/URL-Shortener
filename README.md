@@ -36,7 +36,7 @@ url-shortener/
 │
 ├── main.py            # FastAPI backend
 ├── index.html         # Frontend UI
-├── static/            # CSS or JS files (if any)
+├── static/            # CSS or JS files 
 ├── requirements.txt   # Project dependencies
 └── README.md          # Documentation
 
