@@ -13,7 +13,7 @@ The project demonstrates full-stack integration, error handling, and frontend–
 - ⏳ Loading spinner during API calls
 - ❌ Proper backend error handling
 - 📜 URL history
-- 💾 Persistent history using `localStorage`
+- 💾 Persistent history using 'localStorage'
 - 🎨 Clean and responsive UI
 - 📦 Frontend served via FastAPI static files
 
